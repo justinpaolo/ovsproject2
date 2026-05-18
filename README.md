@@ -26,8 +26,10 @@ Dependency Manager: Composer
 
 Installation Guide
 1. Clone the Repository
-git clone https://github.com/yourusername/online-voting-system.git
-2. Move to XAMPP
+git clone:
+https://github.com/justinpaolo/ovsproject2
+
+3. Move to XAMPP
 
 Place the project folder inside:
 
@@ -44,7 +46,10 @@ Open your browser and go to:
 http://localhost/ovsproject2
 
 Default Access:
-Admin
+User:
+Google login only (phinmaed.com) can access
+
+Admin:
 URL: http://localhost/ovsproject2/admin
 Username: admin
 Password: admin123
